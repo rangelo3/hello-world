@@ -1,2 +1,4 @@
 # hello-world
-weird
+Introvert
+Anime Watcher
+J-pop
