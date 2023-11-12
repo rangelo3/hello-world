@@ -1,4 +1,2 @@
-# About Myself
-# Introvert
-# Anime Watcher
-# J-pop
+about myself
+hello i am ram angelo vivo
