@@ -1,8 +1,8 @@
-<h1>I am Ram Angelo Vivo</h1>
+<h1>About Myself</h1>
 <hr>
-<ol>
-  <li>Genshin Impact Player</li>
-  <li>K-pop</li>
-  <li>J-pop</li>
+<ul>
+  <li>I am Ram Angelo Vivo</li></li>
+  <li>Currently Studying Bachelor Science of Computer Science</li>
+  <li>Third Year</li>
 
-</ol>
+</ul>
